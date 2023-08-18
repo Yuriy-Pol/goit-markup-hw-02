@@ -36,15 +36,19 @@ ul {
   color: #404bbf;
 }
 .address {
+  font-style: normal;
+}
+.address-list {
   color: #434455;
   font-family: Roboto, sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
-.address:hover,
-.address:focus {
+.address-list:hover,
+.address-list:focus {
   color: #404bbf;
 }
 .hero-section {
